@@ -21,6 +21,7 @@ Jupyter Notebook: https://jupyter.org/install
 | BeautifulSoup |
 | string |
 | WordCloud |
+| multidict |
 
 ## Fuente:
 Los datos son sacados scrapeando las diferentes secciones de la web del periódico "The Moscow Times".
